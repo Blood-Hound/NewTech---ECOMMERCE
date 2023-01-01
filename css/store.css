@@ -16,3 +16,9 @@
       margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;
   }
 }	
+
+
+.header {
+    position:fixed;
+	top: 0;
+	  }
